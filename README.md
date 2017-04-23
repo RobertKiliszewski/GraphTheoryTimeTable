@@ -18,7 +18,7 @@ day of the week.
 By connecting these nodes this way the timetable database is sorted out in the same order as they are mentioned above.
 
 # Neo4j
-Neo4j was a tricky to figure out at the start but as I used more and more of it it became very easy and understandable.
+Neo4j (Cypher being the Language) was a tricky to figure out at the start but as I used more and more of it it became very easy and understandable.
 
 The Queries that I used in my database are as follow:
 
