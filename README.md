@@ -18,4 +18,14 @@ day of the week.
 By connecting these nodes this way the timetable database is layed out in the same order as they are mentioned above.
 
 # Neo4j
+Neo4j was a tricky language to fgure out at the start but as I used more and more of it it became very easy and understandable.
+
+The Queries that I used in my database are as follow:
+
+* CREATE (sem1:Year{name:"2016"})
+* MATCH (d:Day {name:"Monday"}), (t:Time {name: "9:00"})
+  Create (d)-[:AT]->(t)
+* MATCH (n) where ID(n)=23 delete n
+* MATCH (y:Year {name:"2016"})-[r]-()
+  DELETE r
 
