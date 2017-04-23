@@ -33,6 +33,9 @@ Match is only an example of one of the relationships I have done where Monday ha
 Monday -------AT--------> Time
 
 # Screenshots of Labels
+## Database
+![DB](https://cloud.githubusercontent.com/assets/15819582/25318036/bb945dd2-287d-11e7-8b4d-09a5863931a0.png)
+
 ## Groups
 ![Groups](https://cloud.githubusercontent.com/assets/15819582/25318030/bb6283ac-287d-11e7-8200-d569bd12516a.png)
 
@@ -50,6 +53,18 @@ Monday -------AT--------> Time
 
 ## Times
 ![Times](https://cloud.githubusercontent.com/assets/15819582/25318034/bb929dd0-287d-11e7-8523-dda3c1d2565b.png)
+
+## Days
+![Days](https://cloud.githubusercontent.com/assets/15819582/25318037/bb948000-287d-11e7-8118-6737662326e7.png)
+
+# Conclusion
+
+I've learned a lot from doing this project. Firstly I learned a new language (Cypher) and how to use neo4j. Secondly I learned that creating something of this scalse is insanely time consuming and requires a lot of patience and concentration not to make mistakes. Thirdly I learned that planning is essential in creating any database of any size.
+
+# References
+1. https://neo4j.com/developer/cypher-query-language/
+2. https://neo4j.com/docs/developer-manual/current/cypher/clauses/delete/
+
 
 
 
