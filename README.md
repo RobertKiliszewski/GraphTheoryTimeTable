@@ -18,7 +18,7 @@ day of the week.
 By connecting these nodes this way the timetable database is sorted out in the same order as they are mentioned above.
 
 # Neo4j
-Neo4j was a tricky language to figure out at the start but as I used more and more of it it became very easy and understandable.
+Neo4j was a tricky to figure out at the start but as I used more and more of it it became very easy and understandable.
 
 The Queries that I used in my database are as follow:
 
@@ -28,6 +28,8 @@ The Queries that I used in my database are as follow:
 * MATCH (n) where ID(n)=23 delete n
 * MATCH (y:Year {name:"2016"})-[r]-()
   DELETE r
+* match (n) return n
+
   
 Match is only an example of one of the relationships I have done where Monday has a time and the relationship is AT for the reason that 
 Monday -------AT--------> Time
