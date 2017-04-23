@@ -28,4 +28,7 @@ The Queries that I used in my database are as follow:
 * MATCH (n) where ID(n)=23 delete n
 * MATCH (y:Year {name:"2016"})-[r]-()
   DELETE r
+  
+Match is only an example of one of the relationships I have done where Monday has a time and the relationship is AT for the reason that 
+Monday -------AT--------> Time
 
