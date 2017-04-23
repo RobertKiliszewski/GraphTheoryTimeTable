@@ -1,9 +1,9 @@
 # Graph Theory      
 
-This repository is for my Graph Theory Project where I was Asked to design a Graphical Database using Neo4j for my college Timetable due on 
+This repository is for my Graph Theory Project where I was asked to design a Graphical Database using Neo4j for my college Timetable due on 
 the 23rd of April.
 
-The requirement was to create  a database storing Lecturers, Room numbers, Modules, Days of the Week, Hours of the day which i Have included
+The requirement was to create  a database storing Lecturers, Room numbers, Modules, Days of the Week, Hours of the day which I Have included
 in my Graphical database as nodes.
 
 All of these nodes are connected via a relationship.
@@ -15,10 +15,10 @@ The Relationships in my database are as follow = Year - Month - Day - Hours - Gr
 The Reason for the relationship to be in that order is so that everything is well organized and there is no need for separate nodes for each
 day of the week.
 
-By connecting these nodes this way the timetable database is layed out in the same order as they are mentioned above.
+By connecting these nodes this way the timetable database is sorted out in the same order as they are mentioned above.
 
 # Neo4j
-Neo4j was a tricky language to fgure out at the start but as I used more and more of it it became very easy and understandable.
+Neo4j was a tricky language to figure out at the start but as I used more and more of it it became very easy and understandable.
 
 The Queries that I used in my database are as follow:
 
@@ -59,7 +59,7 @@ Monday -------AT--------> Time
 
 # Conclusion
 
-I've learned a lot from doing this project. Firstly I learned a new language (Cypher) and how to use neo4j. Secondly I learned that creating something of this scalse is insanely time consuming and requires a lot of patience and concentration not to make mistakes. Thirdly I learned that planning is essential in creating any database of any size.
+I've learned a lot from doing this project. Firstly I learned a new language (Cypher) and how to use neo4j. Secondly I learned that creating something of this scale is insanely time consuming and requires a lot of patience and concentration not to make mistakes. Thirdly I learned that planning is essential in creating any database of any size.
 
 # References
 1. https://neo4j.com/developer/cypher-query-language/
