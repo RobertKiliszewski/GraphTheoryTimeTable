@@ -36,3 +36,21 @@ Monday -------AT--------> Time
 ## Groups
 ![Groups](https://cloud.githubusercontent.com/assets/15819582/25318030/bb6283ac-287d-11e7-8200-d569bd12516a.png)
 
+## Lecturers
+![Lecturers](https://cloud.githubusercontent.com/assets/15819582/25318031/bb7ae0c8-287d-11e7-8bd6-fc72a0e0e277.png)
+
+## Modules
+![Modules](https://cloud.githubusercontent.com/assets/15819582/25318032/bb920a46-287d-11e7-8b90-5dcf8d5dd8f7.png)
+
+## Months
+![Months](https://cloud.githubusercontent.com/assets/15819582/25318033/bb921f40-287d-11e7-8894-e46f9131611b.png)
+
+## Rooms
+![Rooms](https://cloud.githubusercontent.com/assets/15819582/25318035/bb92e9fc-287d-11e7-9574-b9eb2d9079fa.png)
+
+## Times
+![Times](https://cloud.githubusercontent.com/assets/15819582/25318034/bb929dd0-287d-11e7-8523-dda3c1d2565b.png)
+
+
+
+
